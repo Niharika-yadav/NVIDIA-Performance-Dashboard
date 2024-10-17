@@ -37,3 +37,20 @@
 
 ## Dashboard Preview
 ![Preview](https://github.com/Niharika-yadav/NVIDIA-Performance-Dashboard/blob/b0fe172594ac365378feba013d07f9e97ebce974/Document/preview.png)
+
+
+## Conclusion
+
+The dashboard provides a comprehensive overview of NVIDIA's stock performance, highlighting key insights:
+
+**Steady Dividend Payments:** Consistent over time, reflecting NVIDIA's commitment to shareholders.
+
+**Rising Trading Volume:** Increased trading activity in recent years indicates growing investor interest.
+
+**Significant Price Growth:** A sharp rise in stock prices post-2015 showcases strong market performance.
+
+**Key Metrics:** Average close price of 6.75, trading volume of 604.89M, and maximum dividend of 0.01.
+
+**Volume Peaks:** Identifies specific dates of high trading, linked to major market events.
+
+### Overall, the analysis reveals NVIDIA's robust growth and stable dividend patterns, offering valuable insights for investors.
