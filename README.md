@@ -36,4 +36,4 @@
 - Role: (Optional) A merged table that consolidates data from the above tables, enabling a comprehensive analysis of how stock prices, volume, dividends, and stock splits interact over time.
 
 ## Dashboard Preview
-
+![Preview](https://github.com/Niharika-yadav/NVIDIA-Performance-Dashboard/blob/b0fe172594ac365378feba013d07f9e97ebce974/Document/preview.png)
